@@ -33,7 +33,7 @@ def get_baoxiang(token):
             "Host": "encourage.kuaishou.com",
             "Connection": "keep-alive",
             "Content-Length": "2",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.675 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha33-intercept1 ksNebula/12.5.20.8014 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
             "content-type": "application/json",
             "Accept": "*/*",
             "Origin": "https://encourage.kuaishou.com",
@@ -66,7 +66,7 @@ def get_fanbu(token):
         headers = {
             "Host": "encourage.kuaishou.com",
             "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.675 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha33-intercept1 ksNebula/12.5.20.8014 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
             "content-type": "application/json",
             "Accept": "*/*",
             "Origin": "https://encourage.kuaishou.com",
@@ -91,7 +91,7 @@ def get_fanbu(token):
                 headers = {
                     "Host": "encourage.kuaishou.com",
                     "Connection": "keep-alive",
-                    "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.675 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha33-intercept1 ksNebula/12.5.20.8014 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
                     "content-type": "application/json",
                     "Accept": "*/*",
                     "Origin": "https://encourage.kuaishou.com",
@@ -134,7 +134,7 @@ def get_money(token):
         headers = {
             "Host": "encourage.kuaishou.com",
             "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.675 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha33-intercept1 ksNebula/12.5.20.8014 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
             "content-type": "application/json",
             "Accept": "*/*",
             "X-Requested-With": "com.kuaishou.nebula",
@@ -169,7 +169,7 @@ def get_walk(token):
         headers = {
             "Host": "encourage.kuaishou.com",
             "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.700 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha34 ksNebula/12.5.40.8118 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
             "content-type": "application/json",
             "Accept": "*/*",
             "Origin": "https://encourage.kuaishou.com",
@@ -205,7 +205,7 @@ def get_walk(token):
                 headers = {
                     "Host": "encourage.kuaishou.com",
                     "Connection": "keep-alive",
-                    "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.675 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha33-intercept1 ksNebula/12.5.20.8014 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+                    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
                     "content-type": "application/json",
                     "Accept": "*/*",
                     "Origin": "https://encourage.kuaishou.com",
@@ -244,7 +244,7 @@ def get_qiandao(token):
         headers = {
             "Host": "encourage.kuaishou.com",
             "Connection": "keep-alive",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6C Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.226 KsWebView/1.8.90.675 (rel) Mobile Safari/537.36 Yoda/3.1.7-alpha33-intercept1 ksNebula/12.5.20.8014 OS_PRO_BIT/64 MAX_PHY_MEM/15199 AZPREFIX/az4 ICFO/0 StatusHT/34 TitleHT/43 NetType/WIFI ISLP/0 ISDM/0 ISLB/0 locale/zh-cn DPS/19.822 DPP/99 CT/0 ISLM/0",
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Kwai/13.3.30.9227 ISLP/0 StatusHT/47 KDT/PHONE iosSCH/1 TitleHT/44 NetType/lte ISDM/0 ICFO/0 locale/zh-Hans CT/0 Yoda/3.1.3 ISLB/0 CoIS/2 ISLM/0 WebViewType/WK BHT/102 AZPREFIX/az1",
             "content-type": "application/json",
             "Accept": "*/*",
             "X-Requested-With": "com.kuaishou.nebula",
