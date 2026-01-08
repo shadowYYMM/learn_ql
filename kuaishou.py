@@ -39,6 +39,15 @@ try:
 except Exception as e:
     print('小错误')
 
+# 发送通知消息
+def send_notification_message(title):
+    try:
+        from sendNotify import send
+        send(title, ''.join(all_print_list))
+    except Exception as e:
+        if e:
+            print('发送通知消息失败！')
+
 _cookie = os.getenv('KS_COOKIE')
 # 检查变量是否存在
 if _cookie == '':
